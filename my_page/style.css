@@ -1,0 +1,27 @@
+body{
+	padding:19px;
+	margin: 70px;
+}
+.img_deg{
+	float:right;
+	width:35%;	
+}	
+.espace{
+	padding: 13px;
+}			
+.petal{
+	border:5px solid #000;
+	position:53px;
+	text-align:center;
+}	
+	
+div{
+	padding:2px;
+	font-style:italic;
+}
+.position{
+	position: absolute;
+	width: 50%;
+	left:9%;
+	top: 5px;
+}	
